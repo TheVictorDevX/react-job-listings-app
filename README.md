@@ -13,5 +13,5 @@ It allows users to **view**, **create**, **update**, and **delete** jobs.
 ## 📦 Technologies Used
 
 * React (Functional Components + Hooks)
-* JSON Server (for mocking backend, optional)
+* JSON Server (for mocking backend)
 * Tailwind (for styling)
