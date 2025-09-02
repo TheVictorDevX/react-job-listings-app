@@ -97,6 +97,48 @@
         "contactEmail": "mahbrahlah11@gmail.com",
         "contactPhone": "11"
       }
+    },
+    {
+      "id": "a436",
+      "title": "Fullstack Web Dev",
+      "type": "Full-Time",
+      "location": "Brooklyn, NY",
+      "description": "Do backend, frontend",
+      "salary": "$60K - 70K",
+      "company": {
+        "name": "cellcard",
+        "description": "Cellcard is #1 company in Cambodia.",
+        "contactEmail": "mahbrahlah@gmail.com",
+        "contactPhone": "012900068"
+      }
+    },
+    {
+      "id": "eb2a",
+      "title": "Fullstack Developer",
+      "type": "Full-Time",
+      "location": "Brooklyn, NY",
+      "description": "You need to do backend and frontend developments.",
+      "salary": "$80K - 90K",
+      "company": {
+        "name": "Dolor Cloud",
+        "description": "This company is amazing.",
+        "contactEmail": "mahbrahlah@gmail.com",
+        "contactPhone": "012900068"
+      }
+    },
+    {
+      "id": "0f17",
+      "title": "Fullstack Dev",
+      "type": "Full-Time",
+      "location": "Miami, FL",
+      "description": "You need to do both backend and frontend.",
+      "salary": "$70K - 80K",
+      "company": {
+        "name": "Dolor Cloud",
+        "description": "This is an amazing company.",
+        "contactEmail": "mahbrahlah@gmail.com",
+        "contactPhone": "012900068"
+      }
     }
   ]
 }
